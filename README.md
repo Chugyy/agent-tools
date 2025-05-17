@@ -5,4 +5,4 @@ Tu trouveras ici, la liste des outils Python que j'intègre dans mes agents IA o
 Veille simplement à ce que tes **settings** soit à jour, que les **identifiants** contenus dans le `.env` soient correctement remplies et surtout à jour.
 
 > *Si tu as besoin de quoi que ce soit, rejoins le Discord. 🚀*
-> 👉🏻 ***https://discord.gg/T6DCneUhD7***
+👉🏻 ***https://discord.gg/T6DCneUhD7***
