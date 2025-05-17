@@ -1,10 +1,8 @@
-# Requirements for media tools
-# These might be conditional based on what features are used.
-# Ensure these are also in the main requirements.txt if not already present.
-
-requests
-openai # If using Whisper directly
-Pillow # For image processing (included with some OCR libraries)
-pytesseract # For OCR from images
-PyMuPDF # For PDF text extraction (fitz)
-moviepy # For extracting audio from video 
+requests>=2.28.1
+python-dotenv>=0.21.0
+pydantic>=1.10.2
+pytesseract>=0.3.10
+Pillow>=9.0.0
+PyMuPDF>=1.19.6
+moviepy>=1.0.3
+openai>=0.27.0
